@@ -1,0 +1,15 @@
+PRODUCTS = [
+    ("a", "Phone", "phone"),
+    ("b", "Charger", "charger"),
+    ("c", "Bangle", "bangle"),
+    ("d", "Body Lotion", "body_lotion"),
+    ("e", "Lipgloss", "lipgloss"),
+    ("f", "Spoon", "spoon"),
+    ("g", "Bournvita", "bournvita"),
+    ("h", "Snacks", "snacks"),
+    ("i", "Notebook", "notebook"),
+    ("j", "Pen", "pen"),
+    ("k", "Glue", "glue"),
+    ("l", "Cup", "cup"),
+    ("m", "Bottle", "bottle"),
+]
